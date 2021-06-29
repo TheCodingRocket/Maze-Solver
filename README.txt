@@ -1,3 +1,1 @@
-# Pathfinding-Algorithm
-I've done it, it's finally finish.
-i have made my own version of a Pathfinding Algorithm, yay!
+<h2 align="center"> A simple algorithm for solving mazes. </h2>
